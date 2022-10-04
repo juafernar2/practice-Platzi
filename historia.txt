@@ -4,3 +4,5 @@ Juan Fernández tiene 24 años y nació en España,
 viviendo en todo el mundo.
 
 Hoy hablaremos de su historia.
+
+Le gusta tocar el piano.
